@@ -7,3 +7,6 @@
 
 + experiment-code.tar.gz  
 研究で開発したアルゴリズムの実験用コード
+
++ line_style_business.pdf  
+LINEビジネスコースのインターン予選通過スライド
